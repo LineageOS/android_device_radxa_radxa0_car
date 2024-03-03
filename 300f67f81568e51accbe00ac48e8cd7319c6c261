@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c26fcb39_1357b349",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 25732
+      },
+      "writtenOn": "2024-03-03T20:10:00Z",
+      "side": 1,
+      "message": "Since it\u0027s a PRODUCT_* config you should think about guarding device tree stuff with a new one (TARGET_IS_AUTOMOTIVE?)",
+      "revId": "300f67f81568e51accbe00ac48e8cd7319c6c261",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
