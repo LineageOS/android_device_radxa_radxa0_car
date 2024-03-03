@@ -16,6 +16,24 @@
       "message": "Since it\u0027s a PRODUCT_* config you should think about guarding device tree stuff with a new one (TARGET_IS_AUTOMOTIVE?)",
       "revId": "300f67f81568e51accbe00ac48e8cd7319c6c261",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "657913e8_a2fe3355",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2024-03-03T21:19:52Z",
+      "side": 1,
+      "message": "That\u0027s exactly what I want, to guard stuff, but without creating a new flag.",
+      "parentUuid": "c26fcb39_1357b349",
+      "revId": "300f67f81568e51accbe00ac48e8cd7319c6c261",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
