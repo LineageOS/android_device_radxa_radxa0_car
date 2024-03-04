@@ -34,6 +34,24 @@
       "parentUuid": "c26fcb39_1357b349",
       "revId": "300f67f81568e51accbe00ac48e8cd7319c6c261",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ed747afe_1af6ad5f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 25732
+      },
+      "writtenOn": "2024-03-04T01:21:36Z",
+      "side": 1,
+      "message": "That\u0027s bad, inherit-product is used to keep track of the include tree (it also optimize Soong regen if something changes)\n\nPRODUCT_* vars have a special meaning as well, so they\u0027re unreliable when it comes to guarding stuff with it",
+      "parentUuid": "657913e8_a2fe3355",
+      "revId": "300f67f81568e51accbe00ac48e8cd7319c6c261",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
