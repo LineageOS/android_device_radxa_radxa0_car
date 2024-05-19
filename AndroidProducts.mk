@@ -6,8 +6,3 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/lineage_radxa0_car.mk
-
-COMMON_LUNCH_CHOICES := \
-    lineage_radxa0_car-eng \
-    lineage_radxa0_car-user \
-    lineage_radxa0_car-userdebug
