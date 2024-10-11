@@ -5,7 +5,7 @@
 #
 
 ## Kernel
-TARGET_KERNEL_VARIANT_CONFIG := g12a_tab_variant_defconfig
+TARGET_KERNEL_VARIANT_CONFIG := aml_tab_variant_defconfig
 
 ## Wi-Fi
 WIFI_HIDL_FEATURE_DUAL_INTERFACE := true
