@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "bb41fc9c_3062154f",
+        "filename": "lineage_radxa0_car.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2024-10-23T19:55:25Z",
+      "side": 1,
+      "message": "Where did this come from?",
+      "revId": "eb064267df880c1b0de981d6ac62666ca078c321",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
