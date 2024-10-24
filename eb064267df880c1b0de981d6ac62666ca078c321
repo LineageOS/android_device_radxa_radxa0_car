@@ -16,6 +16,24 @@
       "message": "Where did this come from?",
       "revId": "eb064267df880c1b0de981d6ac62666ca078c321",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "4ab0d565_c7c767f9",
+        "filename": "lineage_radxa0_car.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2024-10-24T06:34:32Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "bb41fc9c_3062154f",
+      "revId": "eb064267df880c1b0de981d6ac62666ca078c321",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
