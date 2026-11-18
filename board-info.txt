@@ -1,1 +1,1 @@
-require board=radxa0_car
+require board=radxa0
